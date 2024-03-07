@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="300" src="/imagem.svg"  />
-
-</div>
-
-###
-
-<h1 align="center">Sejam bem-vindos👋</h1>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ogustavoborges.ogustavoborges&left_text=Visitantes"  />
-</div>
-
 ###
 
 <h3 align="left">🧑🏻‍💻  Sobre mim</h3>
