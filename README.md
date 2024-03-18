@@ -9,7 +9,6 @@
 <h3 align="left">🌐 Redes sociais</h3>
   <div align="left">
   <a href="https://linkedin.com/in/ogustavoborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="ogustavoborges" height="30" width="40" /></a>
-<a href="https://instagram.com/ogustavoborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogustavoborges" height="30" width="40" /></a>
 <a href="https://www.behance.net/ogustavoborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ogustavoborges" height="30" width="40" /></a>
 </div>
 
