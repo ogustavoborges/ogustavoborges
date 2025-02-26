@@ -3,7 +3,12 @@
 <h3 align="left">🧑🏻‍💻  Sobre mim</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Meu+nome+%C3%A9+Gustavo+Borges%2C+tenho+23+anos;Sou+estudante+de+Sistemas+para+Internet+pelo+IFRS;E+meu+objetivo+%C3%A9+ser+um+desenvolvedor+Front-End." alt="Typing SVG" /></a>
 
-<p align="left"><br>- 🖥️ Atualmente, sou técnico de desenvolvimento de sistemas<br>- 📕 Faço parte da trilha de Front-End no programa <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech" target="blank">Vem Ser Tech</a>, realizado pela parceria entre a Ada Tech e o Ifood <br>- 🗺️ No meu tempo livre gosto de viajar com a família e jogar com meus amigos</p>
+<p align="left">
+<br>- 👨🏻‍💻 Sou estudante de Sistemas para Internet pelo Instituto Federal do Rio Grande do Sul.
+<br>- 🖥️ Atualmente, sou técnico de desenvolvimento web, onde no meu dia a dia trabalho com as linguagens PHP, Laravel e Vue.js.
+<br>- 📕 Concluí a trilha de Front-End no programa <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech" target="blank">Vem Ser Tech</a>, realizado pela parceria entre a Ada Tech 
+e o Ifood. Durante a formação, tive contato com diversos temas como Programação Orientada a Objetos, Front-End Dinâmico e React. Além disso, fiquei em 1º lugar no Ada Hack na trilha de front.
+</p>
 
 ###
 <h3 align="left">🌐 Redes sociais</h3>
