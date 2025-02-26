@@ -1,7 +1,6 @@
 ###
 
 <h3 align="left">🧑🏻‍💻  Sobre mim</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Meu+nome+%C3%A9+Gustavo+Borges%2C+tenho+23+anos;Sou+estudante+de+Sistemas+para+Internet+pelo+IFRS;E+meu+objetivo+%C3%A9+ser+um+desenvolvedor+Front-End." alt="Typing SVG" /></a>
 
 <p align="left">
 <br>- 👨🏻‍💻 Sou estudante de Sistemas para Internet pelo Instituto Federal do Rio Grande do Sul.
