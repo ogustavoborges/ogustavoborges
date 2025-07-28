@@ -4,9 +4,9 @@
 
 <p align="left">
 <br>👨🏻‍💻 Sou estudante de Sistemas para Internet pelo Instituto Federal do Rio Grande do Sul.
-<br>🖥️ Atualmente, sou técnico de desenvolvimento web, onde no meu dia a dia trabalho com as linguagens PHP, Laravel e Vue.js.
+<br>🖥️ Atuo como técnico de desenvolvimento de sistemas, onde no meu dia a dia trabalho com as linguagens PHP, Laravel e Vue.js.
 <br>📕 Concluí a trilha de Front-End no programa <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech" target="blank">Vem Ser Tech</a>, realizado pela parceria entre a Ada Tech 
-e o Ifood. Durante a formação, tive contato com diversos temas como Programação Orientada a Objetos, Front-End Dinâmico e React. Além disso, fiquei em 1º lugar no Ada Hack na trilha de front.
+e o Ifood. Durante a formação, tive contato com diversos temas como Programação Orientada a Objetos, Front-End Dinâmico e React. Além disso, fiquei em 1º lugar no Ada Hack | Hackathon Ada Tech na trilha de front.
 </p>
 
 ###
