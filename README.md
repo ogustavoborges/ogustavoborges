@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim</h3>
 
 <p align="left">
-Formado em Sistemas para Internet pelo Instituto Federal do Rio Grande do Sul.
+Estudante de Sistemas para Internet pelo Instituto Federal do Rio Grande do Sul.
 <br><br>
 Atuo como técnico de desenvolvimento de sistemas, trabalhando no dia a dia com PHP, Laravel e Vue.js.
 <br><br>
